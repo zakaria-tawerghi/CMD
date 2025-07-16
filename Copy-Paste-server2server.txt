@@ -1,2 +1,3 @@
-scp -r zakaria@192.168.5.167:/home/zakaria/wordpress .
-scp zakaria@192.168.5.167:/home/zakaria/defd45c1f4e529e41663fcfd2934e1f023b4fac16566308ef02542c8eea728b0.tar.gz .
+copy to server upload
+
+scp "C:\Users\Waha Win Server\uptime-kuma-backup.tar.gz" zakaria@192.168.5.167:/home/zakaria/
